@@ -294,6 +294,7 @@ h5,
 .heading-5 {
 	font-size: 20px;
 	line-height: 1.35;
+	color: #000000
 }
 
 @media (min-width: 992px) {
@@ -7061,7 +7062,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-transparent.rd-navbar-static .rd-navbar-aside-outer {
-	color: rgba(0, 0, 0, 0.7);
+	color: rgba(251, 249, 249, 0.7);
 	background-color: #0e0d0d;
 }
 
